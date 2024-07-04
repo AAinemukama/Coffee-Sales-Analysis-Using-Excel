@@ -1,3 +1,4 @@
+
 # Coffee-Sales-Analysis-Using-Excel
 
 ## Project Overview
@@ -19,3 +20,4 @@ The analysis reveals insights into the sales performance of different countries 
 The project successfully provides a comprehensive analysis of coffee sales data, offering valuable insights into sales performance and trends. These insights can help in making informed business decisions and strategies.
 
 ## To View the whole excel file, please clink the following link.
+https://github.com/AAinemukama/Data-Visualizations-Power-BI-and-Excel/blob/main/Coffee%20Sales-Portfolio%20Project%20with%20sheet%20tabs.xlsx
